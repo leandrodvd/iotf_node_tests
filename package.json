@@ -1,0 +1,23 @@
+{
+  "name": "iotf_node_tests",
+  "version": "0.0.1",
+  "description": "just playing with iot and node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrodvd/iotf_node_tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrodvd/iotf_node_tests/issues"
+  },
+  "homepage": "https://github.com/leandrodvd/iotf_node_tests#readme",
+  "dependencies": {
+    "ibmiotf": "^0.2.12",
+    "inquirer": "^1.0.2"
+  }
+}
